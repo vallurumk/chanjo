@@ -23,7 +23,7 @@ pip install chanjo
 git clone https://github.com/robinandeer/chanjo.git
 cd chanjo
 conda install --channel bioconda sambamba
-pip install --requirements requirements-dev.txt --editable .
+pip install --requirement requirements-dev.txt --editable .
 ```
 
 ## Usage
